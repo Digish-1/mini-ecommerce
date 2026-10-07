@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2026/07/BEST-NOISE-CANCELLING-HEADPHONES-2048px-6447-1024x1024.jpg",
+    "price": 129,
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviews": 1284,
+    "description": "Over-ear Bluetooth headphones with active noise cancellation, 30-hour battery life and a comfortable memory-foam fit for all-day listening."
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MW2I5lnaUipm2SMZfWm1SiHBIYJQykdh6weLOvQUkWKoZE-L2c2LNr2W&s=10",
+    "price": 89,
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviews": 862,
+    "description": "Track heart rate, sleep and workouts with a bright AMOLED display, GPS and 7-day battery life. Water resistant up to 50 metres."
+  },
+  {
+    "id": 3,
+    "name": "Portable Bluetooth Speaker",
+    "image": "https://www.leafstudios.in/cdn/shop/files/1_9f202231-8698-46d2-bdee-6ac1c7d00718_800x.png?v=1771307711",
+    "price": 49,
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviews": 2031,
+    "description": "Compact waterproof speaker with rich 360° sound, built-in microphone and 12 hours of playtime."
+  },
+  {
+    "id": 4,
+    "name": "Classic Cotton T-Shirt",
+    "image": "https://stag.global/cdn/shop/files/WhatsApp_Image_2025-07-08_at_6.19.25_PM_1.jpg?v=1752130154",
+    "price": 19,
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviews": 3150,
+    "description": "Soft, breathable 100% cotton crew-neck tee with a relaxed fit. Pre-shrunk and machine washable."
+  },
+  {
+    "id": 5,
+    "name": "Slim Fit Denim Jeans",
+    "image": "https://styleunion.in/cdn/shop/products/MCJ00023DARKINDIGO_2.jpg?v=1740689082&width=1100",
+    "price": 54,
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviews": 978,
+    "description": "Stretch denim with a modern slim fit and a mid-rise waist. Durable stitching and a classic five-pocket design."
+  },
+  {
+    "id": 6,
+    "name": "Lightweight Running Shoes",
+    "image": "https://rukminim3.flixcart.com/image/480/580/xif0q/shoe/o/a/n/9-quantum-35-9-asian-full-white-grey-original-imahgh9vf7fjwh4t.jpeg?q=90",
+    "price": 69,
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviews": 2210,
+    "description": "Breathable mesh upper and cushioned midsole for comfortable everyday runs and gym sessions."
+  },
+  {
+    "id": 7,
+    "name": "Ceramic Coffee Mug Set",
+    "image": "https://theshay.in/cdn/shop/files/Square_Lifestyle_slide-teal_1aede9d7-1801-45ec-88e7-0b46fb6e8c82_2_1800x.webp?v=1769493042",
+    "price": 24,
+    "category": "Home",
+    "rating": 4.4,
+    "reviews": 512,
+    "description": "Set of four 350ml stoneware mugs with a glossy glaze. Microwave and dishwasher safe."
+  },
+  {
+    "id": 8,
+    "name": "Scented Soy Candle",
+    "image": "https://ekamonline.com/cdn/shop/files/Image1_eb1924b9-3004-4754-9bc4-c5a1c3668ebf.jpg?v=1750418507",
+    "price": 14,
+    "category": "Home",
+    "rating": 4.1,
+    "reviews": 389,
+    "description": "Hand-poured soy wax candle with a calming lavender and vanilla blend. Burns for up to 45 hours."
+  },
+  {
+    "id": 9,
+    "name": "LED Desk Lamp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpmLZfwdqWNHGgkX1A-oLJR61mjwKI8KDqZQ9MYVSwSsqku5I5Fh6l7k&s=10",
+    "price": 29,
+    "category": "Home",
+    "rating": 4.6,
+    "reviews": 934,
+    "description": "Adjustable arm lamp with three colour temperatures, five brightness levels and a USB charging port."
+  },
+  {
+    "id": 10,
+    "name": "Leather Bifold Wallet",
+    "image": "https://alwleather.in/cdn/shop/files/catalog-hero_ad1c3a1d-4357-40a9-b22e-ad9ee6c517b1.jpg?v=1787841818&width=1024",
+    "price": 32,
+    "category": "Accessories",
+    "rating": 4.5,
+    "reviews": 720,
+    "description": "Genuine leather wallet with RFID protection, six card slots and a full-length bill compartment."
+  },
+  {
+    "id": 11,
+    "name": "Polarized Sunglasses",
+    "image": "https://www.glassesindia.com/cdn/shop/files/rn-image_picker_lib_temp_20073e81-1071-41ae-ab3e-bd7be9f6d8f6.jpg?v=1758191466",
+    "price": 44,
+    "category": "Accessories",
+    "rating": 4.2,
+    "reviews": 455,
+    "description": "UV400 polarized lenses in a lightweight, durable frame. Includes a protective case and cleaning cloth."
+  },
+  {
+    "id": 12,
+    "name": "Stainless Steel Water Bottle",
+    "image": "https://fns.co.in/cdn/shop/files/Montavo_by_fns_Oasis_01.png?v=1786609660",
+    "price": 22,
+    "category": "Accessories",
+    "rating": 4.8,
+    "reviews": 2840,
+    "description": "Double-wall vacuum insulated 750ml bottle keeps drinks cold for 24 hours or hot for 12."
+  }
+]
